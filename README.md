@@ -5,6 +5,8 @@ release of leetcode-cheat
 
 It's a **chrome extension** which helps you use leetcode more efficient。You can download it from https://chrome.google.com/webstore/detail/leetcode-cheatsheet/fniccleejlofifaakbgppmbbcdfjonle?hl=en-US
 
+**important**: leetcode-cheat only support Chinese version now. That's to say leetcode.com is not supported, but you can use leetcode-cn.com instead. 
+
 ## what can it do for me ?
 
 - Copy all the test cases offered by leetcode without copy it one by one manually
