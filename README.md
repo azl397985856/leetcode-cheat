@@ -17,7 +17,7 @@ It's a **chrome extension** which helps you use leetcode more efficient。You ca
 
 ![](https://tva1.sinaimg.cn/large/0081Kckwly1glmg0xokafj31980osn0f.jpg)
 
-- if you stuck, you can click it , maybe I have write a solution for it. 
+- if you stuck, you can click it , maybe I have wrote a solution before. 
 
 ![](https://tva1.sinaimg.cn/large/0081Kckwly1glmg2fc054j31980osq4g.jpg)
 
