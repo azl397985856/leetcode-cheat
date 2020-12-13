@@ -1,6 +1,24 @@
 # leetcode-cheat
 release of leetcode-cheat
 
+## What is it ?
+
+It's a **chrome extension** which helps you use leetcode more efficient。You can download it from https://chrome.google.com/webstore/detail/leetcode-cheatsheet/fniccleejlofifaakbgppmbbcdfjonle?hl=en-US
+
+## what can it do for me ?
+
+- Copy all the test cases offered by leetcode without copy it one by one manually
+
+![](https://tva1.sinaimg.cn/large/0081Kckwly1glmfz7knmtj32060f0mye.jpg)
+
+- There are many code templates, you can copy it if you like
+
+![](https://tva1.sinaimg.cn/large/0081Kckwly1glmg0xokafj31980osn0f.jpg)
+
+- if you stuck, you can click it , maybe I have write a solution for it. 
+
+![](https://tva1.sinaimg.cn/large/0081Kckwly1glmg2fc054j31980osq4g.jpg)
+
 ## FAQ
 
 Q： 我没有科学，下载不了怎么办？
