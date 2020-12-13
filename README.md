@@ -19,6 +19,16 @@ It's a **chrome extension** which helps you use leetcode more efficient。You ca
 
 ![](https://tva1.sinaimg.cn/large/0081Kckwly1glmg2fc054j31980osq4g.jpg)
 
+- zen mode
+
+![](https://tva1.sinaimg.cn/large/0081Kckwly1glmg5pa61gj31jk0u0qgg.jpg)
+
+you will get something like this:
+
+![](https://tva1.sinaimg.cn/large/0081Kckwly1glmg6srs4kj31h50u0dml.jpg)
+
+the "console" in the bottom will disappear unless you hover over it or press "back" button.
+
 ## FAQ
 
 Q： 我没有科学，下载不了怎么办？
