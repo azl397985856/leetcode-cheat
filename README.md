@@ -7,6 +7,10 @@ It's a **chrome extension** which helps you use leetcode more efficient。You ca
 
 **important**: leetcode-cheat only support Chinese version now. That's to say leetcode.com is not supported, but you can use leetcode-cn.com instead. 
 
+## How to use？
+
+- just drag the crx file into your chrome and click continue button
+
 ## what can it do for me ?
 
 - roadmap
