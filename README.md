@@ -17,6 +17,10 @@ It's a **chrome extension** which helps you use leetcode more efficient。You ca
 
 ![](https://tva1.sinaimg.cn/large/0081Kckwly1glpqbuba55j30w00u0tgr.jpg)
 
+- complexity rating
+
+![](https://tva1.sinaimg.cn/large/0081Kckwly1gm6xl5uih3j30o50nl0u9.jpg)
+
 - Copy all the test cases offered by leetcode without copy it one by one manually
 
 ![](https://tva1.sinaimg.cn/large/0081Kckwly1glmfz7knmtj32060f0mye.jpg)
