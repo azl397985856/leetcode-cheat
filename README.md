@@ -2,6 +2,8 @@
 
 release of leetcode-cheat
 
+[中文版](https://mp.weixin.qq.com/s/LfrEZ0zzbUmeMQCwopg5bQ)
+
 ## What is it ?
 
 It's a **chrome extension** which helps you to use leetcode more efficient。You can install it from https://chrome.google.com/webstore/detail/leetcode-cheatsheet/fniccleejlofifaakbgppmbbcdfjonle?hl=en-US
