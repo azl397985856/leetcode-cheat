@@ -1,17 +1,29 @@
 # leetcode-cheat
+
 release of leetcode-cheat
 
 ## What is it ?
 
-It's a **chrome extension** which helps you use leetcode more efficient。You can download it from https://chrome.google.com/webstore/detail/leetcode-cheatsheet/fniccleejlofifaakbgppmbbcdfjonle?hl=en-US
+It's a **chrome extension** which helps you to use leetcode more efficient。You can install it from https://chrome.google.com/webstore/detail/leetcode-cheatsheet/fniccleejlofifaakbgppmbbcdfjonle?hl=en-US
 
-**important**: leetcode-cheat only support Chinese version now. That's to say leetcode.com is not supported, but you can use leetcode-cn.com instead. 
+**important**: leetcode-cheat only support Chinese version now. That's to say leetcode.com is not supported completely, but you can use leetcode-cn.com instead.
 
 ## How to use？
 
-- just drag the crx file into your chrome and click continue button
+Pick one:
+
+1. Visit https://chrome.google.com/webstore/detail/leetcode-cheatsheet/fniccleejlofifaakbgppmbbcdfjonle?hl=en-US , then click 'add to chrome'
+2. Download and drag the crx file into your chrome and click continue button
 
 ## what can it do for me ?
+
+- data structure visualization
+
+You can draw any data structure by using the canvas. Also, we provide lots of presets, if you don't know how to get started, it's a great idea to use the presets directly.
+
+You can save your works and use it at any time if you want.
+
+![](https://tva1.sinaimg.cn/large/008eGmZEly1gmrz98cxflj31bp0u07k9.jpg)
 
 - roadmap
 
@@ -29,7 +41,7 @@ It's a **chrome extension** which helps you use leetcode more efficient。You ca
 
 ![](https://tva1.sinaimg.cn/large/0081Kckwly1glmg0xokafj31980osn0f.jpg)
 
-- if you stuck, you can click it , maybe I have wrote a solution before. 
+- if you stuck, you can click it , maybe I have wrote a solution before.
 
 ![](https://tva1.sinaimg.cn/large/0081Kckwly1glmg2fc054j31980osq4g.jpg)
 
