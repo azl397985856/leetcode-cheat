@@ -18,7 +18,13 @@ Pick one:
 2. Download and drag the crx file into your chrome and click continue button
 
 ## what can it do for me ?
+
 - solution template
+
+![](https://tva1.sinaimg.cn/large/008eGmZEly1gn3bp2ag3kj312b0u0gys.jpg)
+
+![](https://tva1.sinaimg.cn/large/008eGmZEly1gn3bvpadsbj31g70u0k38.jpg)
+
 - data structure visualization
 
 You can draw any data structure by using the canvas. Also, we provide lots of presets, if you don't know how to get started, it's a great idea to use the presets directly.
