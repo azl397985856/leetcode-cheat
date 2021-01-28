@@ -2,7 +2,7 @@
 
 release of leetcode-cheat
 
-[中文版](https://mp.weixin.qq.com/s/LfrEZ0zzbUmeMQCwopg5bQ)
+[中文版](https://lucifer.ren/blog/2020/08/16/leetcode-cheat/)
 
 ## What is it ?
 
@@ -18,7 +18,7 @@ Pick one:
 2. Download and drag the crx file into your chrome and click continue button
 
 ## what can it do for me ?
-
+- solution template
 - data structure visualization
 
 You can draw any data structure by using the canvas. Also, we provide lots of presets, if you don't know how to get started, it's a great idea to use the presets directly.
